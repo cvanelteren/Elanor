@@ -1,1 +1,1 @@
-[[file./figures/logo.svg]]
+[[file:./figures/logo.svg]]
