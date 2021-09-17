@@ -1,1 +1,3 @@
-[[file:./figures/logo.svg]]
+#+begin_export md
+<img src="./figures/logo.svg" width = "100%"></img>
+#+end_export
