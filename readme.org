@@ -8,5 +8,5 @@ This is a  keyboard I designed 2020. The  board was designed
 using KiCAD.  Accompanying with this work,  is some wireless
 keyboard firmware I wrote and designed for the esp32. If you
 like              my              work              consider
-[[url:https://buymeacoffee.com/cvanelteren][buying me a cofee]].
+[[url:https://buymeacoffee.com/cvanelteren][buying me a coffee]].
 * [[file:license.org][License]]
