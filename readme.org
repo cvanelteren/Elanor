@@ -1,1 +1,12 @@
+#+options: toc:nil
+#+begin_html
 <img src="./figures/logo.svg" width = "100%"></img>
+<a href="https://www.buymeacoffee.com/cvanelteren" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+#+end_html
+* Welcome to Elanor's page
+This is a  keyboard I designed 2020. The  board was designed
+using KiCAD.  Accompanying with this work,  is some wireless
+keyboard firmware I wrote and designed for the esp32. If you
+like              my              work              consider
+[[url:https://buymeacoffee.com/cvanelteren][buying me a cofee]].
+* [[file:license.org][License]]
